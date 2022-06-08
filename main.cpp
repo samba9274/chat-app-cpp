@@ -123,29 +123,6 @@ private:
 
         scrollok(winMessages, true);
 
-        // users.insert("yash");
-        // users.insert("shree");
-        // users.insert("gaurav");
-
-        // messages.push_back(Message("yash", "Hello!1"));
-        // messages.push_back(Message("shree", "Hello!"));
-        // messages.push_back(Message("gaurav", "Hello!"));
-        // messages.push_back(Message("yash", "Hello!2"));
-        // messages.push_back(Message("shree", "Hello!"));
-        // messages.push_back(Message("gaurav", "Hello!"));
-        // messages.push_back(Message("yash", "Hello!3"));
-        // messages.push_back(Message("shree", "Hello!"));
-        // messages.push_back(Message("gaurav", "Hello!"));
-        // messages.push_back(Message("yash", "Hello!4"));
-        // messages.push_back(Message("shree", "Hello!"));
-        // messages.push_back(Message("gaurav", "Hello!"));
-        // messages.push_back(Message("yash", "Hello!5"));
-        // messages.push_back(Message("shree", "Hello!"));
-        // messages.push_back(Message("gaurav", "Hello!"));
-        // messages.push_back(Message("yash", "Hello!6"));
-        // messages.push_back(Message("shree", "Hello!"));
-        // messages.push_back(Message("gaurav", "Hello!"));
-
         refreshWindows();
 
         io.connect(URL);
